@@ -678,7 +678,7 @@
         },
         {
             "names": [ "bullhead" ],
-            "manifest_url": "https://multirom-nexus5x.github.io/manifest.json",
+            "manifest_url": "https://JustAkan.github.io/multirom/manifest.json",
             "check_gpg": false,
             "kexec_check_path": "/sys/kernel/kexec_loaded",
             "ubuntu_touch": {
